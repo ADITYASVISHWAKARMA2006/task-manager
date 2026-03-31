@@ -45,10 +45,8 @@ Make sure the following are installed:
 - Java JDK (version 8 or above)
 
 Check installation:
-```bash
 java -version
 javac -version
-
 
 
 How to Run the Project
