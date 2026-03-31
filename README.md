@@ -65,9 +65,15 @@ java Main
 
 ## instructions to run the program
 type - "1" to Add Task
+
 type - "2" to View Tasks
+
 type - "3" to Delete Task
+
 type - "4" to Mark Task as Completed
+
 type - "5" to Show Completed Tasks
+
 type - "6" to Show Pending Tasks
+
 type - "7" to Exit
