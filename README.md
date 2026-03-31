@@ -1,16 +1,16 @@
-# Smart Task Manager 🚀
+#  Task Manager 
 
-## 📌 Overview
+##  Overview
 Smart Task Manager is a Java-based console application designed to help users manage their daily tasks efficiently. It provides features to add, view, delete, and track task completion.
 
 ---
 
-## 🎯 Problem Statement
-Managing daily tasks manually can lead to missed deadlines and poor organization. There is a need for a simple system to track tasks effectively.
+##  Problem Statement
+many times you can miss the tasks that were improtant to you because you there was no a way to track all the existing tasks. 
 
 ---
 
-## 💡 Solution
+##  Solution
 This project implements a command-line task manager that allows users to:
 - Add tasks
 - View all tasks
@@ -20,7 +20,7 @@ This project implements a command-line task manager that allows users to:
 
 ---
 
-## 🚀 Features
+##  Features
 - Add tasks with unique IDs  
 - View all tasks with status (DONE / PENDING)  
 - Delete tasks by ID  
@@ -31,7 +31,7 @@ This project implements a command-line task manager that allows users to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java  
 - Java Collections (ArrayList)  
 - Java Streams API  
@@ -39,7 +39,7 @@ This project implements a command-line task manager that allows users to:
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 Make sure the following are installed:
 
 - Java JDK (version 8 or above)
@@ -48,8 +48,9 @@ Check installation:
 java -version
 javac -version
 
+---------
 
-How to Run the Project
+## How to Run the Project
 Step 1: Clone the Repository
 git clone https://github.com/ADITYASVISHWAKARMA2006/task-manager.git
 cd task-manager
@@ -59,3 +60,14 @@ javac Main.java, Task.java
 
 Step 3: Run the Program
 java Main
+
+---------
+
+## instructions to run the program
+type - "1" to Add Task
+type - "2" to View Tasks
+type - "3" to Delete Task
+type - "4" to Mark Task as Completed
+type - "5" to Show Completed Tasks
+type - "6" to Show Pending Tasks
+type - "7" to Exit
